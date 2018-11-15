@@ -1,0 +1,23 @@
+---
+title: Challenges
+date: 2018-11-14 21:41:31
+tags:
+---
+## Challenges
+
+It takes challenges to overcome obstacles.
+I know many people who has blogs for years but they never write in them. You never know who may run upon your profile and see your blog and posts from years ago. It's just something to keep in the archives to document. Especially in this internet culture. Writing to me is a way to express those random inner thoughts. I need to write consistently over the years and pay this domain yearly. It pays off overtime once you look back on your old thought processes and progress in professional world, your opinion on things. Matter.
+After all theres developers in all these countries Spain, Norway, Ukraine, Scotland, UK and Photographers in Amsterdam and Models in Finland. This is amazing. I want to see this and meet and create some stuff. I mean life is so short. You can really only do one thing with so much time and dedication and with me beginning to code at the age of 17. I got more time to work than those who been in the industry since 2004,2009. I just heard of CSS in 2015. I just heard of JS in 2015. Now I plan to dedicate my entire life to developing software. You dont get it, I studied the history of it. I was fascinated by Steve Jobs, I studied startups before 2010. Napster and other internet communities then. I mean my entire life was spent on the internet. I skipped school to be on www.meez.com and mailed cash to their office in San Francisco when I wanteed cash item clothing and VIP to dress. Now it's closed. Imagine spending your life on the internet. Your child hood memories. It wasn't spent in peer pressure it was spent online , MMROP, cops and robbers.
+It was spent expressing your core online, laughing, etc. Now I'm all grown up and know how to make pretty good websites I say I'm talented than most my age but heey lets see. I didn't go to college and didn't finish high school but I have friends in Silicon Valley , New York and France. My Aunt has a travel online company and gets travel tickets for the cheap. So I'm thankful to be given this opportunity to work and live. Now It's just time to get started, meet some girls, get married. I know how I want my kids to be. I want to raise kids. Live in a home and teach them how to code. Minimize it though.
+Some people get multiple phones per every 3 years. I'm opting for sticking with one phone forever. Getting it fixed, etc. There's a ton of cool gadgets and applications about to be built over the next years. I know I can't hop to hop on each company and work but I can work hard, build my skill (I love that word) and make my own applications of my own ideas on the side while I work for a company mainly. I know there are good designers, photographers, UX/UI Designers out there. I'm offering to be the modicum of that.
+
+Say, there is a designer and a developer.
+I want to know how to design websites using html. css. vanilla javascript.
+
+I want to know how to make performant resilient web applications using Nodejs, Docker or Digital Ocean and React or Vue for the front-end and create real live applications. I want to be the concepter just simply with a pen and paper draw out an app and build it from the ground up. How? It takes work studying and getting familiar with the ecosystem's tools. They're building this stuff so whe can build whatever we want right? Build whatever we want. And managing my sites with domain, data hosting, subscription services.
+A creator. Your going to look at the site and be like "Wow, I didn't know that was created by Tyrese Williams" Oh, this site too! I've been using this for months never knew it was made by the developer Tyrese. 
+Most just build projects or dont get serious and build their own and even the ones who do create 1 or 2. Creating applications at a modest level where people can use them without heavy-loading. A simple application without heavy animations and UI. I want to get good to the point where I can code up a website with animations and grid flexbox in a minute. I pretty much learned flexbox after scrolling through the W3 Document online. I'm optimally full-stack and ready to build my own project just need inspiration and ideas and when your in the ecosystem , hackathons and such. I will thank myself for staying inside and learning react, nodejs, css grid.
+But you know what's so hard is trying to keep up the speed. I'm so advanced trying to work with developers who are still learning and their so happy and positive on the most basic react concepts I'm like look just do this. Cause they just want to enjoy I want to learn how to do it and go to the next step so I can go to the next step and build the project.
+
+There is challenges.
+
