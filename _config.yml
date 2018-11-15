@@ -80,4 +80,4 @@ theme: cactus
 deploy:
   type: heroku
   repo: https://git.heroku.com/theutterdev.git
-  message: Update
+  message: Updates
