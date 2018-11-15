@@ -3,3 +3,30 @@ title: Industries
 date: 2018-11-14 20:02:27
 tags:
 ---
+
+## Health, Law, U.S. Government
+
+I noticed most of my family worked in the government.
+My mom works for Department of Defense.
+My uncle was a Vietnamese Veteran.
+
+My teacher told me I was a good debator in Law class in high school.
+
+My mom is a diabetic and colon cancer runs in the family. 
+
+I want to work as a developer and get good healthcare for my family.
+ 
+ I'm talking good yearly physical check ups, monthly dentist check ups, yearly colonoscopys.
+
+ I want to get married, buy a home, raise kids in private school. Eat healthy and have them travel early. My children  getting their passport at 7 years old and I'll buy them tickets and hotels for Apple's WWDC Events and Hackathons worldwide. I know the importance of thinking outside the box and having friends worldwide. Having your child learn French in France and go to business meetings at a young age is good exposure and for life.  Their internal compass will be forever cabrilated. My kids will get their own office and laptop. Son, *plat* heres a book on C#. Bedtime at 10pm.
+
+ Having your kids have a schedule early on.
+ This means setting bedtimes, math tutors. Making your child independent. I can be gone to my co-working office at 5am. My son is up and ready to go for school his keys, hat, school shoes at 7 am and gives me a call that he locked the door and on his way out. And he's at school by 8.
+ And back home, bought his own lunch. Got his own freelance projects he does online and comes home. Study and in-bed by 10.
+
+ This is discipline. This is for leaders. I don't want the jacuzzi's and mansions.
+ 
+  I want a mid-sized home and Be able to go to Norway for a conference on Sass Animations.
+   While my kids having freelance clients at 15 years old can travel to Finland for the Europe Hackathon.
+ 
+ raised for professionalism is modern socities. Kids that will live to see the 2090's and be young/
