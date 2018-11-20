@@ -1,0 +1,10 @@
+---
+title: Day After Daily Dispatch 002
+date: 2018-11-18 01:53:03
+tags: 
+---
+
+It's the day after my birthday. Wait no It's November 18th . My birthday was to days ago and I'm inside my room.
+
+I'm in my room working on stuff and my skill just waiting to be professionally good and travel with this. I have 6 months to profit. I'm 19 and I just heard of someone my age making 70000 year as a developer. I have to figure out how to get a position. Companies are sending me challenge projects but I can't finish them completely so my first goal was to make a portfolio of projects built and start from there. Now, I stopped because some interviews been coming in. And I want to make advanced projects with Reactjs. I got Node down pack I just need more experience build full-fledged products so I can have confidence making these applications on my own to prove my worth as a Self-Taught developer. I've started a blog before and It gotten over 1,000 views but If I start this people will read it I just need to add some google analytics for search and maybe a few
+facebook ads and I'll be profitable.

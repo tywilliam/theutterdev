@@ -1,0 +1,10 @@
+---
+title: birthday | Daily Dispatch 001
+date: 2018-11-15 23:59:29
+tags:
+---
+## Today's my birthday.
+I turn 19. 
+
+Currently learning from a Udemy course. It's Sunday as I'm writing this but It was a good birthday and I got a lot done. I worked on CSS stuff.
+I got some cool stickers for my laptop and some soup from Panera Bread. I also started my Daily Dispatch theme thing to document my life on this blog. My life as a developer that is, and my life personally. I think the internet is here for a reason. It's here to extend our lives and capacity to create.  My goal is to be a professional web developer with the stack React, NodeJS, and CSS. I want to be a creator. But first I gotta get good at my work..

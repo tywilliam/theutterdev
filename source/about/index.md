@@ -2,6 +2,7 @@
 title: about
 date: 2018-11-02 19:50:41
 ---
-Tyrese, full-stack developer working on cool stuff. 
 
-I utterly am a developer who codes and studies anywhere, anytime on my schedule.
+Hi, I'm Tyrese.
+I like to tell people I'm a 💻Self-Taught Web Developer. 
+👨🏽‍💻 I like to make m’y own apps. 📱 Available for hire. ✉️Documenting my work, ideas and progress.

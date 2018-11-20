@@ -1,0 +1,75 @@
+---
+title: CSSProTips Daily Dispatch 003
+date: 2018-11-19 20:27:15
+tags: css design    
+---
+
+# css is underrated.
+
+Hello, Utter Dev fans! Today I want to share with you some action-tips to boost your css knowledge that is fundamental for Responsive Mobile/Web layouts.
+
+Hopefully incorporate this into your code as this had mind-blowing aha moments on me and tremendously stepped up my professional web developer game.
+
+## 1. Each property has an initial value, used if nothing is declared.
+
+The 'padding' property defaults to 0px and In most browsers the default font-size is 16px.
+
+ Summarize.
+
+## 2. Browsers specify a root font-size for each page. Usually 16px.
+
+Summarize. Research.
+
+### 3. Percentages are measured relative to their parents font-size, If used to specify font-sizes.
+
+Summarize.
+
+
+### 4. Percentages are measured relative to their parents width, if used to specify lengths.
+
+Summarize.
+
+
+### 5. We all heard of ems. Did you know ems are measured relative to their parent's font-size if used to specify font-size.
+    html {
+        font-size:100px;
+    }
+    .header {
+        // 40% of 100px is 40px
+        font-size:40%;
+    }
+    .header-child {
+        // 3em * 40px = 120px
+        // This is 120px
+        font-size: 3em;
+    }
+
+Summarize.
+
+### 6. ems are measured relative to the documents root font-size if used to specify lengths.
+    section {
+        width:1000px;
+    }
+    .section-child {
+        // 10% of 1000 is 100.
+        // 100px
+        padding:10%;
+    }
+### 7. rem are always measured relative to the documents root font-size.
+    html {
+        font-size:34px;
+    }
+    h1 {
+        // 1rem * 34px = 87.5px
+        font-size:2.5rem;
+    }
+### 8. vh and vw are simply percentage measurements of the view ports height and width.
+    section {
+        // take up 50vh of the rendered
+        // layout on the page
+        width:50vh
+    }
+
+
+That's enough snacks for now! Thanks for reading this far!
+-  Write these down 📝, bookmark this blog 🗄 or save for reference. Thanks for reading The Utter Dev! 
