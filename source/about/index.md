@@ -3,6 +3,18 @@ title: about
 date: 2018-11-02 19:50:41
 ---
 
-Hi, I'm Tyrese.
-I like to tell people I'm a 💻Self-Taught Web Developer. 
-👨🏽‍💻 I like to make m’y own apps. 📱 Available for hire. ✉️Documenting my work, ideas and progress.
+Hi I'm Tyrese. I live in Laurel, MD with my mom and one ergonomic laptop setup. I was raised with computers. My Aunt given me my first, second and third computer from her job and I had a curfew when to use it. I starting playing online video games and communities like Meez.com a virtual world where you can dress your character, make friends, create your own room. It was fun to see your friends outfit and match clothes or in the latest gear. SA:MP San Andreas Multiplayer. I spent significant time into making a SA:MP server myself and after a few weeks It grew to 35-60 players daily and a active community forum. 
+
+## What's the story of SA:MP?
+
+I had friends from other servers I played and invited them as admins on mine. I was the hook-up. They had their timezones and would come online depending on their timezone. So I can be in my 7th grade Reading class and when It's computer time in class I sneak and logged in to my Game Server's Host and checked who's online on my server and a routine check the forum's for any Ban Appeals and Admin Applications. We operated on and off for 2-3 years from 6th-8th grade. One time we closed after we banned a hacker that had access to DDoS software. He melted my game server for weeks we couldn't get a single ping under 4 digits. I had a friend who was Arab he had gotten DDoS software and tried to DDoS his IP too he had dynamic IP so we couldnt do much. Then we were thinking who is DDoSing our server! Maybe our competitors? So I went to their forum and posted a article about saying "I'm leaving SA:MP here is my server code". And It contained a file program that for windows computers, could erase your system64 which is a required folder to start your Windows PC. I didn't go back to the forum but I heard 1 person had their PC ripped apart and luckily had an extra disc to re-install. That server outlived mine. But we had a pretty reputation in the community.
+
+## How'd you get into Web Development?
+One day I asked my counsleor where can I learn tech? Do you have any tech programs? She introduced me to her husband who teaches Technology at DC'S Superior Court. I called him myself the next day. I was being taught JavaServer Pages, HTML, CSS and Vanilla JS 7 hours every Saturday for a competition. I wasn't prepared for the competition I wanted to learn MySQL and how to implement user functionality I was happy to be exposed to the teachers who worked at companies and experienced the technology boom pre-2010 when yahoo used inline-styles. and Facebook didn't have a cover photo. So I wanted to spec their brains. The students at this program was ahead of me they were in good schools, high grades, some skipped grades, some are doing college and highschool at the same time. "I want to make websites like that!" "When are we learning MySQL?" "Passing user data to the database".  At the time we were on a strict schedule to learn these technologies and it was fun building those things. Even though JSP is outdated I felt like a office worker from the 90's coding JSP and using Tomcat?
+We made it to the competition. and from then on, On Quora.com I met someone who also liked coding he was from France and we just built several business applications together called
+discoverpc.xyz , app calculator and we even tried freelancing. 
+
+## Started a blog?
+I started blogging during a San Frnacisco visit taking photos and writing about daily life at coffee shops on what was supposed to be about entrepreneurship and engineering. www.theentreneer.com
+
+Now I'm committing to posting a blog daily to the internet from here in Laurel, MD. To document whatever I am thinking about or working on. I research things I find interesting then document my research with a blog post on the internet. Which any person with a computer can easily find and refer to later. Hopefully other people will find these posts posts helpful, relevant, or interesting. I finally believe that blogas are a two way conversation, so I welcome email and comments - as long as they're on topic, more or less.
