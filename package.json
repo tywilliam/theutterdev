@@ -6,6 +6,8 @@
     "version": "3.8.0"
   },
   "dependencies": {
+    "heroku": "^7.21.0",
+    "heroku-cli": "^7.0.9",
     "hexo": "^3.7.0",
     "hexo-deployer-heroku": "^0.1.2",
     "hexo-generator-archive": "^0.1.5",
